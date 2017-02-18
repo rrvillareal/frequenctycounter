@@ -1,15 +1,3 @@
-/***
-Robert Villareal
-rrvillareal@csu.fullerton.edu
-CPSC223C-01
-Assignment 1
-Due: 2/11/2017
-Program title: Frequency counting
-File name: assignment1_main.c
-Purpose: This main function controls the calling of other functions.
-
-***/
-
 #include <stdio.h>
 
 int getdata(int values[], int arraysize);
